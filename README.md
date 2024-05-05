@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]!
+# Hello 👋
 
 Welcome to my GitHub profile! I'm a software developer currently working at a tech startup focused on automating document processing using OCR technology within the transportation and logistics industry. My day-to-day work involves a blend of front-end and back-end development, leveraging technologies like Vue.js, .NET, Python, and cloud platforms like AWS and Azure.
 
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a software developer currently working at a te
 ## My Work
 
 In my current role, I have had the opportunity to:
-- Lead the migration of services from AWS Textract to Azure Document Intelligence, achieving significant cost reductions.
+- Spearhead the development and optimization of .NET 6 Web APIs, utilizing clean architecture principles to enhance scalability and maintainability.
 - Design and implement integrations with third-party services, enhancing our platform's capabilities.
 - Mentor junior team members, helping them grow professionally and technically.
 
